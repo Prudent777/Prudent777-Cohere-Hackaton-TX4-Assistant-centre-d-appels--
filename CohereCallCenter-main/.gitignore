@@ -1,0 +1,4 @@
+myenv
+config.json
+*.pyc
+temporal.wav
